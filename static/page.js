@@ -152,7 +152,7 @@ module.exports = function (req, res, url) {
 	<div class="header-bg"></div>
 	<div class="header-inside">
 		<a class="site-logo" href="http://web.archive.org/web/20130116083755/http://goanimate.com/" title="GoAnimate">
-			<img alt="Make a Video Online with GoAnimate.com" src="http://web.archive.org/web/20130116083755im_/http://lightspeed.goanimate.com/static/396/go/img/header/make-video-goanimate.png"/>
+			<img alt="Make a Video Online with GoAnimate.com" src="/pages/img/make-video-goanimate.png"/>
 		</a>
 
         <div id="headertopnavmenu" class="globalnav">
